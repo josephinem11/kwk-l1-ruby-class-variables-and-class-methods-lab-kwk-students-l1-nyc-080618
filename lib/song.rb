@@ -1,1 +1,1 @@
-talk = Song.new("Talk", "K")
+talk = Song.new("Talk", "Khalid", "r&b")
